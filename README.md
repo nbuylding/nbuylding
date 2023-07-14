@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Author and Web Developer in training.
 -------------------------------------
 
-I've been learning to code for the past several months after deciding to change careers. I'm also a published author, and while I plan on writing more books in the future, entering the tech industry is my current priority.
+I've been learning to code for the past year after deciding to change careers. I'm also a published author, and while I plan on writing more books in the future, entering the tech industry is my current priority.
 
 * 🌍  I'm based in Ontario, CA.
 * ✉️  You can contact me at [nbuylding@live.ca](mailto:nbuylding@live.ca)
